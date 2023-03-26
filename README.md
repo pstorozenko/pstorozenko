@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @pstorozenko, physicist, data scientist from Warsaw/Olsztyn, Poland.
+- 👋 Hi, I’m @pstorozenko, physicist, data scientist, ml engineer from Warsaw/Olsztyn, Poland.
 - 📜 Check out [my blog](https://pstorozenko.github.io/)!
+- 🧑‍🎓 And my [data science in python course](https://github.com/Appsilon/datascience-python)!
 - 👀 I’m interested in developing and using my data science skills in `python`/`julia`/`R` projects.
 - 🌱 I’m currently learning how to contribute to open source projects.
 - 💞️ I’m looking to collaborate on interesting and impactful science projects.
